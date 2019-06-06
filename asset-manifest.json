@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.09f9b19b.chunk.css",
-    "main.js": "/static/js/main.a9ae09c5.chunk.js",
-    "main.js.map": "/static/js/main.a9ae09c5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.f0d07de8.chunk.js": "/static/js/2.f0d07de8.chunk.js",
-    "static/js/2.f0d07de8.chunk.js.map": "/static/js/2.f0d07de8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.28e5be8b77eb6deab0a00ef12dfe2d3b.js": "/precache-manifest.28e5be8b77eb6deab0a00ef12dfe2d3b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.09f9b19b.chunk.css.map": "/static/css/main.09f9b19b.chunk.css.map"
+    "main.css": "/GitApi/static/css/main.09f9b19b.chunk.css",
+    "main.js": "/GitApi/static/js/main.a9ae09c5.chunk.js",
+    "main.js.map": "/GitApi/static/js/main.a9ae09c5.chunk.js.map",
+    "runtime~main.js": "/GitApi/static/js/runtime~main.f2162862.js",
+    "runtime~main.js.map": "/GitApi/static/js/runtime~main.f2162862.js.map",
+    "static/js/2.10532406.chunk.js": "/GitApi/static/js/2.10532406.chunk.js",
+    "static/js/2.10532406.chunk.js.map": "/GitApi/static/js/2.10532406.chunk.js.map",
+    "index.html": "/GitApi/index.html",
+    "precache-manifest.34cc8424d3281d1c087923103ca0b445.js": "/GitApi/precache-manifest.34cc8424d3281d1c087923103ca0b445.js",
+    "service-worker.js": "/GitApi/service-worker.js",
+    "static/css/main.09f9b19b.chunk.css.map": "/GitApi/static/css/main.09f9b19b.chunk.css.map"
   }
 }
