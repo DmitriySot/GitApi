@@ -1,0 +1,2 @@
+@-webkit-keyframes spinner{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes spinner{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.loader{width:100px;margin:50px 60px;-webkit-animation:spinner 1s linear infinite;animation:spinner 1s linear infinite}.App{font-family:sans-serif}
+/*# sourceMappingURL=main.09f9b19b.chunk.css.map */

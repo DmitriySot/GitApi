@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitapi/static/css/main.09f9b19b.chunk.css",
+    "main.js": "/gitapi/static/js/main.a9ae09c5.chunk.js",
+    "main.js.map": "/gitapi/static/js/main.a9ae09c5.chunk.js.map",
+    "runtime~main.js": "/gitapi/static/js/runtime~main.ff5c9c98.js",
+    "runtime~main.js.map": "/gitapi/static/js/runtime~main.ff5c9c98.js.map",
+    "static/js/2.bf876ea5.chunk.js": "/gitapi/static/js/2.bf876ea5.chunk.js",
+    "static/js/2.bf876ea5.chunk.js.map": "/gitapi/static/js/2.bf876ea5.chunk.js.map",
+    "index.html": "/gitapi/index.html",
+    "precache-manifest.7254bdc37611973af7a4232dbd1456c5.js": "/gitapi/precache-manifest.7254bdc37611973af7a4232dbd1456c5.js",
+    "service-worker.js": "/gitapi/service-worker.js",
+    "static/css/main.09f9b19b.chunk.css.map": "/gitapi/static/css/main.09f9b19b.chunk.css.map"
+  }
+}
